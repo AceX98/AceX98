@@ -44,12 +44,11 @@
                 understand them to defend them."
 
   languages  :
-    native   → Urdu
     english  → C1
     machine  → C++  •  Python  •  Bash  •  x86 ASM
 
   os_daily   : Kali Linux OS  •  WSL2 (Arch/Kali)
-  editor     : VSCode  •  nano 
+  editor     : VSCode  •  nano
 
   currently  :
     → grinding pwn.college belts (Intro to Cybersecurity dojo)
@@ -87,16 +86,16 @@
 │  GETTING STARTED                                                │
 │  ├─ Start Here            [ 45 hacking · 2 mod · 10 chal  ] ✅ │
 │  ├─ Linux Luminarium      [ 168 hack  · 17 mod · 128 chal ] 🔄 │
-│  ├─ Computing 101         [ 104 hack  · 13 mod · 132 chal ] ⬜  │
-│  └─ Playing With Programs [ 23 hack   · 4 mod  · 116 chal ] ⬜  │
+│  ├─ Computing 101         [ 104 hack  · 13 mod · 132 chal ] 🔄 │
+│  └─ Playing With Programs [ 23 hack   · 4 mod  · 116 chal ] 🔄 │
 │                                                                 │
 │  CORE MATERIAL — BELTS                                          │
 │  ├─ 🟠 Intro to Cybersec  [ 78 hack   · 7 mod  · 183 chal ] 🔄 │
-│  ├─ 🟡 Program Security   [ 32 hack   · 5 mod  · 159 chal ] ⬜  │
+│  ├─ 🟡 Program Security   [ 32 hack   · 5 mod  · 159 chal ] ⬜ │
 │  ├─ 🟢 System Security    [ 8 hack    · 6 mod  · 93 chal  ] ⬜  │
 │  └─ 🔵 Software Exploit   [ 6 hack    · 5 mod  · 90 chal  ] ⬜  │
 │                                                                 │
-│  ✅ Complete  🔄 In Progress  ⬜ Locked                          │
+│  ✅ Complete  🔄 In Progress  ⬜ Locked                         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
