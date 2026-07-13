@@ -75,33 +75,6 @@
 
 ---
 
-## `cat ~/pwn.college/progress`
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  pwn.college DOJO TRACKER                         AceX98        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  GETTING STARTED                                                │
-│  ├─ Start Here            [ 45 hacking · 2 mod · 10 chal  ] ✅ │
-│  ├─ Linux Luminarium      [ 168 hack  · 17 mod · 128 chal ] 🔄 │
-│  ├─ Computing 101         [ 104 hack  · 13 mod · 132 chal ] 🔄 │
-│  └─ Playing With Programs [ 23 hack   · 4 mod  · 116 chal ] 🔄 │
-│                                                                 │
-│  CORE MATERIAL — BELTS                                          │
-│  ├─ 🟠 Intro to Cybersec  [ 78 hack   · 7 mod  · 183 chal ] 🔄 │
-│  ├─ 🟡 Program Security   [ 32 hack   · 5 mod  · 159 chal ] ⬜ │
-│  ├─ 🟢 System Security    [ 8 hack    · 6 mod  · 93 chal  ] ⬜  │
-│  └─ 🔵 Software Exploit   [ 6 hack    · 5 mod  · 90 chal  ] ⬜  │
-│                                                                 │
-│  ✅ Complete  🔄 In Progress  ⬜ Locked                         │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-> Live progress tracked in [pwn-college-journey](https://github.com/AceX98/pwn-college-journey)
-
----
-
 ## `ls -la ~/projects`
 
 ### 🔬 StealthRecon Framework
