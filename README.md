@@ -136,7 +136,7 @@ Password generator · Strength analyzer (zxcvbn) · Brute-force estimator · Has
 
 ### 🐚 Air2Shell CTF Team
 > *Competing internationally with Air University's CTF team — 10+ competitions*
-[![CTF-TIME](https://ctftime.org/team/429945)
+> [![CTFtime](https://img.shields.io/badge/CTFtime-Air2Shell-1A1A2E?style=flat-square)](https://ctftime.org/team/429945)
 [![Air2Shell](https://img.shields.io/badge/→_Air2Shell-team_repo-F0A500?style=flat-square&logo=github&logoColor=black)](https://github.com/AceX98/Air2Shell)
 
 ---
