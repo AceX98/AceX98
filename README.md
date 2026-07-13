@@ -36,8 +36,8 @@
 
   handle     : AceX98  [0xD][LEGEND]
   real_name  : Abdul Haseeb
-  location   : Islamabad, Pakistan  🇵🇰
-  university : Air University — Dept. of Cyber Security
+  location   : Pakistan  🇵🇰
+  university : Air University
   
 
   philosophy : "break systems to understand them,
