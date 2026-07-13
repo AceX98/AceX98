@@ -66,7 +66,7 @@
 
 | Platform | Status | Notable |
 |----------|--------|---------|
-| 🟥 **TryHackMe** | `rank #16919` · **top 1%** · 259 rooms · 33 badges · 🔥 11 streak | [0xD][LEGEND] |
+| 🟥 **TryHackMe** | `rank #16919` · **top 1%** · 259 rooms · 33 badges · 🔥 | [0xD][LEGEND] |
 | 🟧 **pwn.college** | Core Material — Intro to Cybersecurity dojo | Active |
 | 🟦 **picoCTF** | Web · Forensics · Reversing | Active |
 | ⬛ **Hack The Box** | Machines & Challenges | Active |
