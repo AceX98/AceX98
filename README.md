@@ -68,7 +68,6 @@
 |----------|--------|---------|
 | 🟥 **TryHackMe** | `rank #16919` · **top 1%** · 259 rooms · 33 badges · 🔥 | [0xD][LEGEND] |
 | 🟧 **pwn.college** | Core Material — Intro to Cybersecurity dojo | Active |
-| 🟦 **picoCTF** | Web · Forensics · Reversing | Active |
 | ⬛ **Hack The Box** | Machines & Challenges | Active |
 | 🐚 **Air2Shell** | CTF Team · Air University | 10+ CTFs |
 
@@ -137,9 +136,8 @@ Password generator · Strength analyzer (zxcvbn) · Brute-force estimator · Has
 
 ### 🐚 Air2Shell CTF Team
 > *Competing internationally with Air University's CTF team — 10+ competitions*
-
+[![CTF-TIME](https://ctftime.org/team/429945)
 [![Air2Shell](https://img.shields.io/badge/→_Air2Shell-team_repo-F0A500?style=flat-square&logo=github&logoColor=black)](https://github.com/AceX98/Air2Shell)
-[![Writeups](https://img.shields.io/badge/→_CTF_Writeups-repo-8B949E?style=flat-square&logo=github&logoColor=white)](https://github.com/AceX98/CTF-Writeups)
 
 ---
 
@@ -185,7 +183,6 @@ Password generator · Strength analyzer (zxcvbn) · Brute-force estimator · Has
 │  🔍 Reverse Engineering  │  Ghidra · GDB · binary analysis        │
 │  💣 Binary Exploitation  │  pwn.college · buffer overflows        │
 │  🌐 Web Security         │  OWASP Top 10 · BurpSuite · SQLi/XSS   │
-│  🔐 Cryptography         │  Classical ciphers · CTF crypto        │
 │  🕵️  Digital Forensics   │  Memory · network · file analysis      │
 └──────────────────────────┴────────────────────────────────────────┘
 ```
