@@ -200,7 +200,7 @@ Password generator · Strength analyzer (zxcvbn) · Brute-force estimator · Has
 └────────────────────────────────────────────────┘
 ```
 
-*Air University · Dept. of Cyber Security · Islamabad · 2026*
+*Air University 2026*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AceX98&color=00D4FF&style=flat-square&label=profile+views)
 
